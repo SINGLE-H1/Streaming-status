@@ -1,68 +1,61 @@
 {
-  "setup": {
-    "city": "pattay",
-    "delay": 10
-  },
-  "config": {
-    "options": {
-      "watch-url": [
-        "https://www.twitch.tv/ixp_nx",
-        "https://www.youtube.com/watch?v=jJPMnTXl63E"
-      ],
-      "timestamp": "{start}"
+    "setup": {
+        "city": "pattay",
+        "delay": 10
     },
-    "text-1": [
-      "{꒰{EMOJI_CLOCK}┊{HR_24}:{MN_24}꒱ ✦┊{EMOJI_TIME}┊{TH_DT_N}/{EN_MTH_N}/{EN_YR_S}꒱}"
-    ],
-    "text-2": [
-      "{NF3(PRX Loading..)}",
-      "☆ | 💙 ╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
-      "☆ | 💙⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
-
-      "{NF3(PRX Loading..)}",
-      "☆ | ❤️⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
-      "☆ | ❤️⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
-
-      "{NF3(PRX Loading..)}",
-      "☆ | ⭐⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
-      "☆ | ⭐⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
-
-      "{NF3(PRX Loading..)}",
-      "⚡︎ | 🔥⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
-      "⚡︎ | 🔥⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
-
-      "{NF3(PRX Loading..)}",
-      "☾. | 💜⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
-      "☾. | 💜⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
-
-      "{NF3(PRX Loading..)}",
-      "‧₊˚ | 🌺 ╺ ⠀꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
-      "‧₊˚ | 🌺 ╺ ⠀꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
-    
-      "{NF3(PRX Loading..)}",
-      "| 🖤 ╺  ꒰ 💽Paper Rex 🖤꒱ ♡",
-      "| 🖤 ╺  ꒰ 💽Pa ♡",
-      "| 🖤 ╺  ꒰ 💽Paper ♡",
-      "| 🖤 ╺  ꒰ 💽Paper Rex 🖤꒱ ♡"
-    ],
-    "text-3": ["☆★✮⋆☆★✮⋆ | ᶻ 𝘇 𐰁  "],
-    "bigimg": [
-      "https://cdn.discordapp.com/attachments/1337053105010769953/1362798078746169444/8f8a72c87a4ef3b112357e3a80493e0a.gif?ex=6803b41d&is=6802629d&hm=7151d319dcd411e8a4da6ea91f8351792840bb184ced9cb4fddcfe8d9befc60f&",
-      
-    ],
-    "smallimg": [
-      "",
-    ],
-    "button-1": [
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/pxm64n._d"
-      }
-    ],
-    "button-2": [
-      {
-
-      }
-    ]
-  }
+    "config": {
+        "options": {
+            "watch-url": [
+                "https://www.twitch.tv/ixp_nx",
+                "https://www.youtube.com/watch?v=jJPMnTXl63E"
+            ],
+            "timestamp": "{start}"
+        },
+        "text-1": [
+            "{꒰{EMOJI_CLOCK}┊{HR_24}:{MN_24}꒱ ✦┊{EMOJI_TIME}┊{TH_DT_N}/{EN_MTH_N}/{EN_YR_S}꒱}"
+        ],
+        "text-2": [
+            "{NF3(PRX Loading..)}",
+            "☆ | 💙 ╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
+            "☆ | 💙⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
+            "{NF3(PRX Loading..)}",
+            "☆ | ❤️⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
+            "☆ | ❤️⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
+            "{NF3(PRX Loading..)}",
+            "☆ | ⭐⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
+            "☆ | ⭐⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
+            "{NF3(PRX Loading..)}",
+            "⚡︎ | 🔥⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
+            "⚡︎ | 🔥⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
+            "{NF3(PRX Loading..)}",
+            "☾. | 💜⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
+            "☾. | 💜⠀╺  ꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
+            "{NF3(PRX Loading..)}",
+            "‧₊˚ | 🌺 ╺ ⠀꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
+            "‧₊˚ | 🌺 ╺ ⠀꒰ 💽Paper Rex 🖤꒱  ྀི𓈒",
+            "{NF3(PRX Loading..)}",
+            "| 🖤 ╺  ꒰ 💽Paper Rex 🖤꒱ ♡",
+            "| 🖤 ╺  ꒰ 💽Pa ♡",
+            "| 🖤 ╺  ꒰ 💽Paper ♡",
+            "| 🖤 ╺  ꒰ 💽Paper Rex 🖤꒱ ♡"
+        ],
+        "text-3": [
+            "☆★✮⋆☆★✮⋆ | ᶻ 𝘇 𐰁  "
+        ],
+        "bigimg": [
+            "https://i.pinimg.com/originals/8a/a7/af/8aa7af01052557e08c7b1d8f42bdb9b6.gif"
+        ],
+        "smallimg": [
+            "https://media.discordapp.net/attachments/1337053105010769953/1362798078268149841/1271369244843442250.webp?ex=68045cdd&is=68030b5d&hm=d649f37afcb564d0ab92e288a0a684202d86bc0301b3f890452b5438ee6baafb&=&format=webp"
+        ],
+        "button-1": [
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/pxm64n._d"
+            }
+        ],
+        "button-2": [
+            {}
+        ]
+    }
 }
